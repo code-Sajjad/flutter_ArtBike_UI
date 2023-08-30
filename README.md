@@ -1,10 +1,13 @@
-# bike_ui_challenge
+# Flutter_ArtBike_ui_challenge
 
-A new Flutter project.
+This was the Flutter ArtBike UI Challenge from Instagram, and I have successfully completed it.
 
-## Getting Started
+## Preview
 
-This project is a starting point for a Flutter application.
+It is a Flutter project, and this is what it looks like:
+
+### Gif
+![Gif](assets/output/Result.gif "Gif")
 
 A few resources to get you started if this is your first Flutter project:
 
